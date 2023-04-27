@@ -39,7 +39,7 @@ contract OSAToken is ERC20, AccessControl {
         require(hasRole(ORG_ROLE, recipient), "The recipient is not an authorized organization entity.");
         _;
     }
-    modifier onlyORGtoSUP(address sender, address recipient) { // restrict transactions from OSA entities to organization entities
+    modifier onlyORGtoSUP(address sender, address recipient) { // restrict transactions from organization entities to supplier entities
         require(hasRole(ORG_ROLE, sender), "You are not an authorized organization entity.");
         require(hasRole(SUP_ROLE, recipient), "The recipient is not an authorized supplier entity.");
         _;
