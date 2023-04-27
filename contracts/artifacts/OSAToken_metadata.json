@@ -1006,11 +1006,11 @@
 			]
 		},
 		"contracts/OSAToken.sol": {
-			"keccak256": "0x72841ac64e261e785506de4640b5ca81e1f15133a1b22f31d1d38000c387a60c",
+			"keccak256": "0xe3a25e013eed52f93717685c92cf48ec89f27ddb89c4ae11bf3840ff1e659b84",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1d49cc7955a88c1af755832a8ef6f2ffb43e29ee4f39e8ed86ad37683d7f53e4",
-				"dweb:/ipfs/Qmekkt65eKommJGpfc7SiKF4hLLfiohytZutqYkxNJ84as"
+				"bzz-raw://1e0c36512b0aee23994ddb2f0d463c319e5f36fba0bff5b486cf94d4632a65fa",
+				"dweb:/ipfs/QmeqTnPFXmMFzrPZCzACYBsDE8HKLwZUHeSKTCwDs3YLGC"
 			]
 		}
 	},
